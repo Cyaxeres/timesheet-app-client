@@ -10,10 +10,11 @@
     "react-dom": "^16.6.0",
     "react-moment": "^0.8.4",
     "react-scripts": "2.0.5",
-    "react-time-format": "0.0.5"
+    "react-time-format": "0.0.5",
+    "serve": "^10.1.1"
   },
   "scripts": {
-	"dev": "react-scripts start",
+    "dev": "react-scripts start",
     "start": "serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test",
